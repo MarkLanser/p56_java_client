@@ -189,4 +189,18 @@ public interface IChatService {
         @WebParam(name = "username", targetNamespace = "http://tempuri.org/")
         String username);
 
+    /**
+     * 
+     * @param product
+     * @param username
+     */
+    @WebMethod(operationName = "BuyProduct", action = "http://tempuri.org/IChatService/BuyProduct")
+    @RequestWrapper(localName = "BuyProduct", targetNamespace = "http://tempuri.org/", className = "org.tempuri.BuyProduct")
+    @ResponseWrapper(localName = "BuyProductResponse", targetNamespace = "http://tempuri.org/", className = "org.tempuri.BuyProductResponse")
+    public void buyProduct(
+        @WebParam(name = "product", targetNamespace = "http://tempuri.org/")
+        Product product,
+        @WebParam(name = "username", targetNamespace = "http://tempuri.org/")
+        String username);
+
 }

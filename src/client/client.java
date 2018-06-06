@@ -165,7 +165,7 @@ public class client extends Application {
                 @Override
                 public void handle(ActionEvent event)
                 {
-                    //TODO make order aanroepen
+                    serviceimpl.buyProduct(p, globalUsername);
                     displayBoughtProducts();
                     balance.setText(serviceimpl.getBalance(globalUsername).toString());
                     System.out.println(p.getName().getValue());

@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f16b2d9-196a-434c-a0ca-0c763500e7dc" name="Default" comment="" />
+    <list default="true" id="0f16b2d9-196a-434c-a0ca-0c763500e7dc" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/client/client.java" afterPath="$PROJECT_DIR$/src/client/client.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/microsoft/schemas/_2003/_10/serialization/ObjectFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/microsoft/schemas/_2003/_10/serialization/ObjectFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/ArrayOfProduct.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/ArrayOfProduct.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/ObjectFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/ObjectFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/Product.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/Product.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/package-info.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/package-info.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/ChatService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/ChatService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/CheckCredentials.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/CheckCredentials.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/CheckCredentialsResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/CheckCredentialsResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/FillDB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/FillDB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/FillDBResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/FillDBResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GeneratePassword.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GeneratePassword.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GeneratePasswordResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GeneratePasswordResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllBoughtProducts.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllBoughtProducts.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllBoughtProductsResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllBoughtProductsResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllProducts.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllProducts.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllProductsResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetAllProductsResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetBalance.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetBalance.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetBalanceResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetBalanceResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProduct.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProduct.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProductResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProductResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProductStock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProductStock.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProductStockResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/GetProductStockResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/IChatService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/IChatService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/IsUsernameAvailable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/IsUsernameAvailable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/IsUsernameAvailableResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/IsUsernameAvailableResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/Login.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/Login.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/LoginResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/LoginResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/ObjectFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/ObjectFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/PostNote.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/PostNote.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/PostNoteResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/PostNoteResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/RegisterCustomer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/RegisterCustomer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/RegisterCustomerResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/RegisterCustomerResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/package-info.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/tempuri/package-info.java" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +85,8 @@
       <file leaf-file-name="client.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/client/client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-744">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="167" column="62" lean-forward="true" selection-start-line="167" selection-start-column="62" selection-end-line="167" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2513#2514#0" expanded="true" />
@@ -26,16 +96,6 @@
                 <element signature="e#4024#4025#0" expanded="true" />
                 <element signature="e#4073#4074#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayOfProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/ArrayOfProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="44" column="65" lean-forward="true" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +113,9 @@
     <findStrings>
       <find>halo</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -78,6 +141,7 @@
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -263,12 +327,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528291259393</updated>
-      <workItem from="1528291263272" duration="9037000" />
+      <workItem from="1528291263272" duration="10148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9037000" />
+    <option name="totallyTimeSpent" value="10148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="-9" width="2321" height="1368" extended-state="6" />
@@ -283,9 +347,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32999164" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32999164" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32999164" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32999164" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17104676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -351,15 +415,15 @@
     <entry file="file://$PROJECT_DIR$/src/org/datacontract/schemas/_2004/_07/practicum56library/ArrayOfProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="44" column="65" lean-forward="true" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
+          <caret line="44" column="65" lean-forward="false" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/client/client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-744">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="167" column="62" lean-forward="true" selection-start-line="167" selection-start-column="62" selection-end-line="167" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2513#2514#0" expanded="true" />
